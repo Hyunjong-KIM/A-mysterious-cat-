@@ -2,4 +2,4 @@
 
 ## 1주차 과제 (2020.05.21)
 
-### [인공지능 제품 및 서비스](https://pages.github.com/)
+### [인공지능 제품 및 서비스](https://github.com/Hyunjong-KIM/A-mysterious-cat-/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
